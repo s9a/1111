@@ -28,7 +28,7 @@
 }
 
 :any-link {
-  color: inherit;
+  color: var(--rp);
   background: var(--dc);
 }
 
